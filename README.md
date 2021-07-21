@@ -1,4 +1,5 @@
-"# FaceDetection-Using-OpenCV" 
+# FaceDetection-Using-OpenCV
+
 Here I have used OOPS concepts for reusing code.
 So you can also import this module in any python file after cloning or downloading the required files.
 haarcascade files are necessary for this module.
